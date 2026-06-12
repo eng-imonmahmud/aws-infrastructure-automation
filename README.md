@@ -4,7 +4,7 @@ This project demonstrates how to automate the deployment and management of cloud
 
 ## 📺 Infrastructure Deployment & Verification Video
 Click the link below to watch the live step-by-step infrastructure provisioning and verification:
-👉 [Watch the Terraform AWS S3 Deployment Demo on Google Drive](https://drive.google.com/file/d/1xmPqW5rb2bij21v5ZhCQ1Iia0BMzQvZ1/view?usp=sharing)
+👉 [Watch the Terraform AWS S3 Deployment on Google Drive](https://drive.google.com/file/d/1xmPqW5rb2bij21v5ZhCQ1Iia0BMzQvZ1/view?usp=sharing)
 
 ## 🚀 Architecture Overview
 - **Infrastructure as Code (IaC):** Terraform (v1.15+)
